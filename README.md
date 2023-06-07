@@ -7,4 +7,4 @@ We use :
   Arduino UNO R3
   DS1302
   PWM PCA9685 (2X)
-  T-pro Mini Servo SG90 9G
+  T-pro Mini Servo SG90 9G (28X)
